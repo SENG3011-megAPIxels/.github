@@ -1,4 +1,4 @@
-Organistation created for SENG3011: Software Engineering Workshop 3 in T1 2022 by team MegAPIxels: 
+Organistation created for UNSW SENG3011: Software Engineering Workshop 3 in T1 2022 by team MegAPIxels: 
 - Samuel Thorley (z5257239) 
 - Lachlan Fraser (z5258840)
 - Rubin Roy (z5168911)
